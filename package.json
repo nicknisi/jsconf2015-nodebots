@@ -1,0 +1,16 @@
+{
+  "name": "jsconf-2015-nodebots",
+  "version": "1.0.0",
+  "description": "My work from jsconf 2015 Nodebots adventure",
+  "main": "button.js",
+  "dependencies": {
+    "barcli": "0.0.11",
+    "johnny-five": "^0.8.76"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick Nisi",
+  "license": "ISC"
+}
